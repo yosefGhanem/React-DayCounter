@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-DayCounter/static/css/main.e6c13ad2.css",
+    "main.js": "/React-DayCounter/static/js/main.67eff5fb.js",
+    "static/js/787.aeefc7f8.chunk.js": "/React-DayCounter/static/js/787.aeefc7f8.chunk.js",
+    "index.html": "/React-DayCounter/index.html",
+    "main.e6c13ad2.css.map": "/React-DayCounter/static/css/main.e6c13ad2.css.map",
+    "main.67eff5fb.js.map": "/React-DayCounter/static/js/main.67eff5fb.js.map",
+    "787.aeefc7f8.chunk.js.map": "/React-DayCounter/static/js/787.aeefc7f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.67eff5fb.js"
+  ]
+}
